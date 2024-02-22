@@ -1,6 +1,8 @@
 # Juliana Alves
 
 Estudante de programção Front End pelo SENAI-SP no Programa FORD < ENTER> , cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia pela UFABC. Vegetariana🌱🐮
+
+
 Atualmente tenho 20 anos, e moro em Ribeirão Pires-SP.
 
 ## Formação
