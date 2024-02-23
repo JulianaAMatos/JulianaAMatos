@@ -27,7 +27,7 @@ Atualmente tenho 20 anos, e moro em Ribeirão Pires-SP.
 * GitHub
 * Power Shell
   
-Acesse o [Guia basico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) ou pesquise diretamente no Google em <https://www.google.com/search?q=markdown>
+Acesse o [Guia basico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) ou pesquise diretamente no Google em [Guia Básico de Markdown]<https://www.google.com/search?q=markdown>
 
 
 <!-- Esse exemplo acima é o equivalente em HTML a:
