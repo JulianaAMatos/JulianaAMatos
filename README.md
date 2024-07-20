@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente estou aprendendo mais sobre Front End 💻, sou ex aluna do curso Programador Front End em parceria com a Ford. Estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia pela UFABC e o Técnico em Administração pelo Centro Paula Souza . <br>Tenho 20 anos e moro em Ribeirão Pires-SP. Possuo formação em Técnico em Química e Nutrição e Dietética.</p>
+<p align="left">Atualmente estou aprendendo mais sobre Front End 💻, sou ex aluna do curso Programador Front End em parceria com a Ford. Estou cursando o Bacharelado Interdisciplinar em Ciência e Tecnologia pela UFABC e o Técnico em Administração pelo Centro Paula Souza . <br>Tenho 21 anos e moro em Ribeirão Pires-SP. Possuo formação em Técnico em Química e Nutrição e Dietética.</p>
 
 ###
 
@@ -10,12 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JulianaAMatos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaAMatos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=JulianaAMatos&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianaAMatos&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JulianaAMatos/JulianaAMatos/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
